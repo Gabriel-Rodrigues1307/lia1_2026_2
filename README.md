@@ -1,2 +1,12 @@
-# lia1_2026_2
-Conteúdos relativos à disciplina LIA1 em 2026/2.
+Repositório de conteúdos e projetos de LIA1 - 2026_1
+_____________________________________________________
+
+Fazer Fork
+
+Criar uma pasta -> "Entregas - Seu nome e Sobrenome"
+
+Fazer Pull Request
+
+Fazer Commit
+
+Bom Trabalho!
